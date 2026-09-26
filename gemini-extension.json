@@ -1,0 +1,13 @@
+{
+  "name": "zona",
+  "version": "1.0.0",
+  "description": "Find nightclubs and lounges in Miami and New York that take table requests, see what a table starts at, and request one.",
+  "mcpServers": {
+    "zona": {
+      "httpUrl": "https://mcp.getzona.app/mcp",
+      "timeout": 30000,
+      "trust": false
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
