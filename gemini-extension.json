@@ -1,7 +1,7 @@
 {
   "name": "zona",
-  "version": "1.0.0",
-  "description": "Find nightclubs and lounges in Miami and New York that take table requests, see what a table starts at, and request one.",
+  "version": "1.1.0",
+  "description": "Find Miami nightclubs and lounges that take table requests, see what a table starts at, request one, and browse Miami events and the Art Week 2026 guide.",
   "mcpServers": {
     "zona": {
       "httpUrl": "https://mcp.getzona.app/mcp",
